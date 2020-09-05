@@ -1,0 +1,38 @@
+[
+  {
+    "value": "Large",
+    "synonyms": [
+      "Large",
+      "Big",
+      "Max",
+      "XL",
+      "L",
+      "l",
+      "1",
+      "one"
+    ]
+  },
+  {
+    "value": "Smalls",
+    "synonyms": [
+      "Small",
+      "Tiny",
+      "One-person",
+      "S",
+      "3"
+    ]
+  },
+  {
+    "value": "Medium",
+    "synonyms": [
+      "Medium",
+      "Mid-size",
+      "mid size",
+      "middle",
+      "M",
+      "m",
+      "2",
+      "two"
+    ]
+  }
+]

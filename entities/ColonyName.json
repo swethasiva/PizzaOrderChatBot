@@ -1,0 +1,9 @@
+{
+  "id": "47d7a766-8376-47ff-ad56-c595cce9dacf",
+  "name": "ColonyName",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

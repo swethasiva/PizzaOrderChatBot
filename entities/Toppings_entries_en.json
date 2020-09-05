@@ -1,0 +1,77 @@
+[
+  {
+    "value": "Pepperony",
+    "synonyms": [
+      "Pepperony"
+    ]
+  },
+  {
+    "value": "Bacon",
+    "synonyms": [
+      "Bacon",
+      "baecon"
+    ]
+  },
+  {
+    "value": "Mushrooms",
+    "synonyms": [
+      "Mushrooms",
+      "mushroom",
+      "mush",
+      "Mushes"
+    ]
+  },
+  {
+    "value": "Extra cheese",
+    "synonyms": [
+      "extra cheese",
+      "Extra Cheeese",
+      "cheese extra",
+      "added chese",
+      "added cheese",
+      "1",
+      "one"
+    ]
+  },
+  {
+    "value": "Olives",
+    "synonyms": [
+      "Black olives",
+      "olive black",
+      "Olives",
+      "4",
+      "olives"
+    ]
+  },
+  {
+    "value": "Oninons",
+    "synonyms": [
+      "Oninons",
+      "anions",
+      "2",
+      "two"
+    ]
+  },
+  {
+    "value": "Chilli",
+    "synonyms": [
+      "Chilli",
+      "Red Chilli",
+      "Green Chilli",
+      "Pepper",
+      "Bell Pepper",
+      "Capsicum",
+      "3",
+      "three"
+    ]
+  },
+  {
+    "value": "Sauasage",
+    "synonyms": [
+      "Sauasage",
+      "sausage",
+      "sawsage",
+      "chicken"
+    ]
+  }
+]

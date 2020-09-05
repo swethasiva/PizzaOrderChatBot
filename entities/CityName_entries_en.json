@@ -1,0 +1,86 @@
+[
+  {
+    "value": "Bangalore",
+    "synonyms": [
+      "Bangalore",
+      "bglr",
+      "banglr",
+      "bangaloree",
+      "bengaluru"
+    ]
+  },
+  {
+    "value": "Chennai",
+    "synonyms": [
+      "Chennai",
+      "Chn",
+      "Madras",
+      "madaras"
+    ]
+  },
+  {
+    "value": "Trichy",
+    "synonyms": [
+      "Trichy",
+      "tiruchy",
+      "Tiruchirapalli"
+    ]
+  },
+  {
+    "value": "Madurai",
+    "synonyms": [
+      "Madurai",
+      "Madhurai"
+    ]
+  },
+  {
+    "value": "Kolkata",
+    "synonyms": [
+      "Kolkata",
+      "calcutta",
+      "calcuta",
+      "koklata",
+      "kolkata"
+    ]
+  },
+  {
+    "value": "Mumbai",
+    "synonyms": [
+      "Mumbai",
+      "bombay",
+      "maharashtra",
+      "dharavi"
+    ]
+  },
+  {
+    "value": "Delhi",
+    "synonyms": [
+      "Delhi",
+      "New Delhi",
+      "Rashrapathi bhavan",
+      "president\u0027s palacee"
+    ]
+  },
+  {
+    "value": "Kochin",
+    "synonyms": [
+      "Kochin",
+      "cochi"
+    ]
+  },
+  {
+    "value": "calicut",
+    "synonyms": [
+      "calicut",
+      "kozikode"
+    ]
+  },
+  {
+    "value": "jaipur",
+    "synonyms": [
+      "jaipur",
+      "raipur",
+      "rajasthan"
+    ]
+  }
+]

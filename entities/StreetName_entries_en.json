@@ -1,0 +1,41 @@
+[
+  {
+    "value": "Jawahar street",
+    "synonyms": [
+      "Jawahar street",
+      "jwahar st.",
+      "jawahar strt",
+      "jawahar strt."
+    ]
+  },
+  {
+    "value": "MGR street",
+    "synonyms": [
+      "MGR street",
+      "mgr road",
+      "mgr theru",
+      "mgr path",
+      "mgr walk",
+      "mgr highway"
+    ]
+  },
+  {
+    "value": "raja mani street",
+    "synonyms": [
+      "raja mani street",
+      "raja mani road",
+      "raja main second main road",
+      "raja mani first main road",
+      "rajaj mani second street",
+      "raja mani thirs cross street"
+    ]
+  },
+  {
+    "value": "n.g.k second cross street",
+    "synonyms": [
+      "n.g.k second cross street",
+      "n.g.k 2nd cross street",
+      "n.g.k. 2nd stt."
+    ]
+  }
+]
