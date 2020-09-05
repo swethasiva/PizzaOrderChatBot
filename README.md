@@ -1,7 +1,8 @@
 # PizzaOrderChatBot
 A chatbot assistant to help you order pizza.
 Click [here](https://drive.google.com/file/d/1ZaEKGgEMk70w49x-CJuJbqaUjHDomFi4/view) for demo. <br />
-Database snashopt after making a new order: <br />
+Database snashopt after making a new order: 
+![Snapshot](FirebaseSnapshot.png)<br />
 Click [here](http://t.me/ThePizaaBot) to access the bot 
 
 
