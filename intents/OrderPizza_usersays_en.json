@@ -1,0 +1,80 @@
+[
+  {
+    "id": "6b42f07d-74c5-470b-9c28-b6083822201c",
+    "data": [
+      {
+        "text": "Do you take Pizza Orders?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94a430ef-9394-46f8-b03e-63d94c12d624",
+    "data": [
+      {
+        "text": "Can you help me with ordering a pizza?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81806117-fcb6-4478-8bcd-19a26d5bf39d",
+    "data": [
+      {
+        "text": "I am looking to order a pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da4422c2-79a1-4722-a7b1-621e3ba222b2",
+    "data": [
+      {
+        "text": "What Pizzas do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30658174-d518-468f-8f8d-f5f39e8c77d6",
+    "data": [
+      {
+        "text": "I want to order a Pizza.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4beedce8-9fa8-473d-8d61-4bd244c51a5e",
+    "data": [
+      {
+        "text": "I would like to order a Pizza!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

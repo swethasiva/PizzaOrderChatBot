@@ -1,0 +1,138 @@
+{
+  "id": "05d8e0ac-828b-4344-b1e1-44ba7c4f2f8b",
+  "name": "PlaceOrder",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "06c59f36-8a5f-44a1-a534-cae1823c80e5",
+          "name": "any",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$any",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Hey, You haven\u0027t given your name yet! May I know your good name please?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "087105cc-4bcf-48be-855f-fde58fb030d7",
+          "name": "Size",
+          "required": true,
+          "dataType": "@Size",
+          "value": "$Size",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What size of Pizza do you want?\n(1) Large (Serves 3)\n(2) Medium (Serves 2)\n(3) Small (Serves 1)\n\nWe serve in the above sizes, Which do you prefer?"
+            },
+            {
+              "lang": "en",
+              "value": "What is the size of Pizza do you want? \n\n(1) Large (Serves 3)\n(2) Medium (Serves 2)\n(3) Small (Serves 1)\n\nWe serve in the above sizes, Which do you prefer?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8c1caf55-4959-49b0-bebe-1f2a6e6b6041",
+          "name": "Type",
+          "required": true,
+          "dataType": "@Type",
+          "value": "$Type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What Type of Pizza do you want to order: Veg or Non-Veg?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "707b0471-7998-4071-b769-3c9f207ba8f5",
+          "name": "Toppings",
+          "required": true,
+          "dataType": "@Toppings",
+          "value": "$Toppings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you need any added toppings to Spice up your Pizza? \n\nWe have:\n\n1) Extra Cheese\n2) Onions\n3) Chilli\n4) Olives"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "df149f0c-5505-4114-8e93-a88a703991e5",
+          "name": "Toppings1",
+          "required": false,
+          "dataType": "@Toppings",
+          "value": "$Toppings1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3ab1e9f1-106d-4a8b-9f0a-d8837b3a0a52",
+          "name": "Count",
+          "required": true,
+          "dataType": "@Count",
+          "value": "$Count",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I have taken your Pizza specifics :) \n\nHow many numbers do you want me to order?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
